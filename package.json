@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jobeh.github.io/sudoku-solver",
   "name": "sudoku-solver",
   "version": "0.1.0",
   "private": true,
@@ -37,6 +38,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
+    "gh-pages": "^3.2.3",
     "mini-css-extract-plugin": "2.4.5",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.15"

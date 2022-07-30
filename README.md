@@ -4,7 +4,7 @@ This app solves sudoku with this algorithms
  - Backtracking
  - Backtracking + MRV
  ---
- ### Demo [here](https://jobeh.github.io/sudoku-solver/)
+ ### Demo [here](https://joubeh.github.io/sudoku-solver/)
  ---
  ## Run the app localy
  
